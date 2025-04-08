@@ -1,0 +1,14 @@
+Print "Hello, World!" to the console.
+Write a function to add two numbers.
+Write a function to check if a number is even or odd.
+Write a function to find the largest of three numbers.
+Write a function to reverse a string.
+Write a function to check if a string is a palindrome.
+Write a function to count the number of vowels in a string.
+Write a function to find the factorial of a number.
+Write a function to generate the Fibonacci sequence up to n terms.
+Write a function to check if a number is prime.
+Write a function to find the sum of all elements in an array.
+Write a function to find the maximum number in an array.
+Write a function to remove duplicates from an array.
+Write a function to sort an array of numbers in ascending order.
